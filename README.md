@@ -1,6 +1,4 @@
-# React_Template
-
-Template for React exercises
+# React CV Project
 
 ## Getting Started
 
